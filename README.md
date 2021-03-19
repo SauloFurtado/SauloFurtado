@@ -1,6 +1,6 @@
 ### Saulo Furtado - [Data Specialist] 👋
 
-[//]: # ## I am an Mecatronics Engineer turned data scientist who loves leveraging data-driven solutions that make an impact on business and society!
+[comment]: # ## I am an Mecatronics Engineer turned data scientist who loves leveraging data-driven solutions that make an impact on business and society!
 
 - 💻 I’m currently working as a Data Science Instructor
 - 💻 I'm also working for a company specialized on Artificial Intelligence (AI) and High Technology
