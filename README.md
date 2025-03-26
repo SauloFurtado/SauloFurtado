@@ -2,7 +2,6 @@
 
 I'm **Saulo Furtado** and this is my GitHub profile. 
 
-- I’m currently working as **Data Engineer/Scientist** at [Smart Fit](https://www.smartfit.com.br)
 - How to reach me: saulo.sp.furtado@gmail.com
 
 <center>
